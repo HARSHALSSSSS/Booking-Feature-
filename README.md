@@ -29,8 +29,11 @@ Step 5: Finalize Booking
 Review the session details and the adjusted price (if applicable).
 Proceed to finalize the booking by completing the payment process.
 Upon successful booking, you will receive a confirmation email with session details.
-# The Zip files conatain the full  files because as files was large they are uploaded as zip file.
-# main code is present in app/page.tsx , components/subfiles .
+# The full file is uploaded as zip file at this link you can download fromm here , due to the big file it was not able to upload here.
+![Image Alt Text](https://drive.google.com/file/d/15ovuwArUsfKFuZpue1hWmi73e-d6jRko/view?usp=sharing)
+
+.
+# you can see main code which is present in app/page.tsx , components/subfiles  .
 # how to run 
 Getting Started
 
