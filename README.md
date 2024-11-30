@@ -30,7 +30,7 @@ Review the session details and the adjusted price (if applicable).
 Proceed to finalize the booking by completing the payment process.
 Upon successful booking, you will receive a confirmation email with session details.
 
-![Alt Text](path/to/image "Optional Title")
+![Alt Text]([path/to/image "Optional Title](https://github.com/HARSHALSSSSS/Booking-Feature-/blob/main/Screenshot%202024-11-30%20205518.png)")
 ![Alt Text](path/to/image "Optional Title")
 ![Alt Text](path/to/image "Optional Title")
 ![Alt Text](path/to/image "Optional Title")
