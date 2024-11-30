@@ -33,10 +33,14 @@ Upon successful booking, you will receive a confirmation email with session deta
 # main code is present in app/page.tsx , components/subfiles .
 # how to run 
 Getting Started
+
 Prerequisites
 Node.js: Ensure Node.js (v14.x or higher) is installed. Download here.
+
 npm or yarn: Package manager for managing dependencies.
+
 Git: (Optional) To clone the repository.
+
 Installation Steps
 Clone the Repository:
 
